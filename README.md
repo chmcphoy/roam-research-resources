@@ -1,2 +1,2 @@
 # roam-research-resources
-Curated list of my favourite things in Vim
+𐃏 Curated list of my favourite things in Roam
