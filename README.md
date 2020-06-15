@@ -4,7 +4,7 @@ A curated list of my favourite things in _Roam._ 🌟
 
 ## Table of Contents
 
-1.  [Why Roam?](#why-roam?)
+1.  [Why Roam?](#why-roam)
 2.  [Websites](#websites)
 3.  [Color Schemes](#color-schemes)
 
